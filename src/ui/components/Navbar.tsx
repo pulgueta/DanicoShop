@@ -274,18 +274,18 @@ interface NavItem {
 const NAV_ITEMS: Array<NavItem> = [
   {
     label: "Productos",
-    href: "/productos",
+    href: "productos",
   },
   {
     label: "Comunidad",
-    href: "/comunidad",
+    href: "comunidad",
   },
   {
     label: "PQR",
-    href: "/pqr",
+    href: "pqr",
   },
   {
     label: "Contáctanos",
-    href: "/contactanos",
+    href: "contactanos",
   },
 ];
